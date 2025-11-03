@@ -1,0 +1,4 @@
+node_modules/
+backend/ahni_attendance.db
+.env
+npm-debug.log
